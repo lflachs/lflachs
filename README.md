@@ -43,5 +43,5 @@ Before product, I spent years teaching web development, built course material fr
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/leonard-flachs">LinkedIn</a>
+  <a href="https://linkedin.com/in/leonard-flachs">LinkedIn</a>
 </p>

@@ -1,6 +1,6 @@
 # Léonard Flachs
 
-I've been building things on the web for 10 years and still get unreasonably excited about a clean deploy.
+I've been building things on the web for 10 years and I'm still excited about it!
 
 I sit at the intersection of product, engineering, and design. I've written production code, built analytics from zero, run 30+ user interviews, and coordinated teams across 22 locations. I don't just manage products, I build them.
 
